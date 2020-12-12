@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47a6a9d5-407a-422d-881b-c2c97dc21183" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DayDam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Daydam_Login/src/test/java/Login/LoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_Login/Facebook_Login.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayDam/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DayDam/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayDam/DayDam.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Daydam_Login/Daydam_Login.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayDam/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/../DayDam/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayDam/src/test/java/Login/LoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DayDam/src/test/java/Login/LoginTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayDam/target/test-classes/Login/LoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DayDam/target/test-classes/Login/LoginTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayDam/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Facebook/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Facebook/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Facebook/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Facebook/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Facebook/src/test/java/Login/LoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Facebook/src/test/java/Login/LoginTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Facebook/target/test-classes/Login/LoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Facebook/target/test-classes/Login/LoginTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Facebook/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Monosnap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/80ca8174-aa2e-4f41-aaeb-b195e3dd1d2c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/93e78b5b-cdf5-4acd-baab-4a19d3e8939a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Login/LoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Login/LoginTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Login/LoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Login/LoginTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lZLVRrSVRKPHO0yyEL53Yzw1vo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/user/UI_AUTOMATION/Selenium_WebDriver/Single_Page_Approach/Monosnap/testng.xml">
+    <configuration name="LoginTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Login.LoginTests" />
+      <module name="Monosnap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Monosnap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Monosnap" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/user/UI_AUTOMATION/Selenium_WebDriver/Single_Page_Approach/Monosnap/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Monosnap" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTests.testLogout" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Monosnap" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Login" />
+      <option name="MAIN_CLASS_NAME" value="Login.LoginTests" />
+      <option name="METHOD_NAME" value="testLogout" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LoginTests" />
+      <item itemvalue="JUnit.All in Monosnap" />
+      <item itemvalue="TestNG.LoginTests.testLogout" />
+      <item itemvalue="TestNG.C:/Users/user/UI_AUTOMATION/Selenium_WebDriver/Single_Page_Approach/Monosnap/testng.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/user/UI_AUTOMATION/Selenium_WebDriver/Single_Page_Approach/Monosnap/testng.xml" />
+        <item itemvalue="Application.LoginTests" />
+        <item itemvalue="JUnit.All in Monosnap" />
+        <item itemvalue="TestNG.LoginTests.testLogout" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47a6a9d5-407a-422d-881b-c2c97dc21183" name="Default Changelist" comment="" />
+      <created>1607799692010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607799692010</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607801783051">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1607801783051" />
+    <state width="1202" height="147" key="GridCell.Tab.0.bottom" timestamp="1607801837452">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1607801837452" />
+    <state width="1202" height="147" key="GridCell.Tab.0.center" timestamp="1607801837451">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1607801837451" />
+    <state width="1202" height="147" key="GridCell.Tab.0.left" timestamp="1607801837451">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1607801837451" />
+    <state width="1202" height="147" key="GridCell.Tab.0.right" timestamp="1607801837451">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1607801837451" />
+  </component>
+</project>
